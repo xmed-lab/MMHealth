@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="czhaobo@eez191.ece.ust.hk:22 password (12)" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="czhaobo@eez191.ece.ust.hk:22 password (12)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/czhaobo/MMHealth" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
